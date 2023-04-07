@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-"type":"module",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RuqayyahSara/MultiThreading-JavaScript.git"
@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/RuqayyahSara/MultiThreading-JavaScript/issues"
   },
-  "homepage": "https://github.com/RuqayyahSara/MultiThreading-JavaScript#readme"
+  "homepage": "https://github.com/RuqayyahSara/MultiThreading-JavaScript#readme",
+  "dependencies": {
+    "loadtest": "^3.0.6"
+  },
+  "devDependencies": {
+		"loadtest": "*"
+	}
 }

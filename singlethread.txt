@@ -1,0 +1,11 @@
+[Fri Apr 07 2023 19:00:03 GMT+0000 (Coordinated Universal Time)] INFO Requests: 0, requests per second: 0, mean latency: 0 ms
+[Fri Apr 07 2023 19:00:08 GMT+0000 (Coordinated Universal Time)] INFO Requests: 445, requests per second: 89, mean latency: 6.4 ms
+[Fri Apr 07 2023 19:00:13 GMT+0000 (Coordinated Universal Time)] INFO Requests: 946, requests per second: 100, mean latency: 5.9 ms
+[Fri Apr 07 2023 19:00:18 GMT+0000 (Coordinated Universal Time)] INFO Requests: 1445, requests per second: 100, mean latency: 5.9 ms
+[Fri Apr 07 2023 19:00:23 GMT+0000 (Coordinated Universal Time)] INFO Requests: 1946, requests per second: 100, mean latency: 5.2 ms
+[Fri Apr 07 2023 19:00:28 GMT+0000 (Coordinated Universal Time)] INFO Requests: 2446, requests per second: 100, mean latency: 5.9 ms
+[Fri Apr 07 2023 19:00:33 GMT+0000 (Coordinated Universal Time)] INFO Requests: 2947, requests per second: 100, mean latency: 5.3 ms
+[Fri Apr 07 2023 19:00:38 GMT+0000 (Coordinated Universal Time)] INFO Requests: 3447, requests per second: 100, mean latency: 27.7 ms
+[Fri Apr 07 2023 19:00:43 GMT+0000 (Coordinated Universal Time)] INFO Requests: 3946, requests per second: 100, mean latency: 4.6 ms
+[Fri Apr 07 2023 19:00:48 GMT+0000 (Coordinated Universal Time)] INFO Requests: 4446, requests per second: 100, mean latency: 9.8 ms
+[Fri Apr 07 2023 19:00:53 GMT+0000 (Coordinated Universal Time)] INFO Requests: 4946, requests per second: 100, mean latency: 4.4 ms
