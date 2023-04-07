@@ -18,4 +18,4 @@ In the second picture, we have performed a load test on an HTTP Server by spawni
  <figcaption>Fig.2 - Load Metrics using multi-core</figcaption>
 </figure>
 
-From the above two pictures we can clearly observe that total latency for the requests sent is less for a multicore process than a single core server.
+From the above two pictures we can clearly observe that total latency for the requests sent is relatively less for a multicore process than a single core server.
